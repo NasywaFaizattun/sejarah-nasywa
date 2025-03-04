@@ -1,0 +1,87 @@
+.all{
+    /* background-color: #D2E0FB; */
+    background: linear-gradient(#D2E0FB, #608BC1);
+    margin-top: 130px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 5px 16px;
+}
+
+.img-h1{
+    width: 600px;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.awal{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.sunda{
+    padding-left: 10px;
+}
+
+.awal h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sunda p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 30px; 
+}
+
+.sunda h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+.sunda li{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sunda ul {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.sunda ul li {
+    margin-bottom: 3px;
+    font-size: 18px;
+}
+
+.sunda ol {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.sunda ol li {
+    margin-bottom: 3px;
+    font-size: 18px; 
+}
+
+.img-isi{
+    padding-top: 10px;
+    width: 400px;
+    padding-left: 50px;
+}
+
+.ketua-adat{
+    padding-top: 10px;
+    width: 250px;
+    border-radius: 50px;
+}
+
+.map-container{
+    padding-top: 10px;
+    padding-left: 270px;
+}
+
